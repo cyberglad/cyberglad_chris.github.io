@@ -1,4 +1,8 @@
-theme: minima
+remote_theme: chrisbobbe/jekyll-theme-prologue
 name: Yuri Gladkov
 markdown: kramdown
+url:
+base_url:
+collections: [sections]
+avatar: http://files.softicons.com/download/android-icons/sugar-icons-by-snobawm/ico/googledrive.ico
 permalink: /blog/:year/:month/:day/:title
