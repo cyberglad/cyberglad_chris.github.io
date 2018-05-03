@@ -1,3 +1,4 @@
 theme: minima
 name: Yuri Gladkov
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
