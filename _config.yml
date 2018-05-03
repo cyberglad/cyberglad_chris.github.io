@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: chrisbobbe/jekyll-theme-prologue
 name: Yuri Gladkov
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
