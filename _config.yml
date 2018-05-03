@@ -1,6 +1,8 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
 name: Yuri Gladkov
 collections: [sections]
+baseurl: https://cyberglad.github.io 
+url: https://cyberglad.github.io
 avatar: http://files.softicons.com/download/android-icons/sugar-icons-by-snobawm/ico/googledrive.ico
 permalink: /blog/:year/:month/:day/:title
 title: Not Working
@@ -10,22 +12,3 @@ description: >- # this means to ignore newlines until "baseurl:"
   HTML5 UP's sleek, responsive site template Prologue.
 author: Yuri Gladkov
 email: your-email@example.com
-
-baseurl: https://cyberglad.github.io 
-url: https://cyberglad.github.io
-
-# Social settings
-facebook_url:
-github_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
-
-# Google Analytics Tracking ID goes here:
-google_analytics:
-
-# The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-prologue
