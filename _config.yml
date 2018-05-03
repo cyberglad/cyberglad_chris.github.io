@@ -12,8 +12,8 @@ author: Yuri Gladkov
 email: your-email@example.com
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://cyberglad.github.io" # the base hostname & protocol for your site
+baseurl: /blog # the subpath of your site, e.g. /blog
+url: https://cyberglad.github.io # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
