@@ -1,7 +1,7 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
 name: Yuri Gladkov
 collections: [sections]
-baseurl: https://cyberglad.github.io 
+baseurl: https://cyberglad.github.io
 url: https://cyberglad.github.io
 avatar: http://files.softicons.com/download/android-icons/sugar-icons-by-snobawm/ico/googledrive.ico
 permalink: /blog/:year/:month/:day/:title
