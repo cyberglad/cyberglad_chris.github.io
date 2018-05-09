@@ -6,11 +6,12 @@ permalink: /skills
 order: 3
 ---
 ## Activities
-* Consulting our clients in selecting and implementing appropriate frameworks in the area of JavaEE and .NET development.
+* Consulting clients in selecting and implementing appropriate frameworks in the area of JavaEE and .NET development.
 * Leading customer projects in the area of JavaEE and .NET development with agile methodologies
 * Coaching and managing of (junior) consultants
 * Contribute to the evolution and extension of our JavaEE and .NET development offering
-* Industry-specific: HL7 Format (Health), SWIFT (Finance)
+* Knowledge of finance, health and energie sector through hands-on work experience in projects (Commerzbank, BNP Paribas, PostFinance, Unilabs, EWE)
+* Knowledge of industry-specific format: HL7 Format (Health), SWIFT (Finance)
 
 ## Profile
 * 10+ of consulting, development and testing experience
