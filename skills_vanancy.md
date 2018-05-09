@@ -6,17 +6,17 @@ permalink: /skills
 order: 3
 ---
 ## Activities
-* Consulting clients in selecting and implementing appropriate frameworks in the area of JavaEE and .NET development.
-* Leading customer projects in the area of JavaEE and .NET development with agile methodologies
+* Consulting clients in selecting and implementing appropriate frameworks in the area of application development.
+* Leading customer projects in the area of application development with agile methodologies
 * Coaching and managing of (junior) consultants
-* Contribute to the evolution and extension of our JavaEE and .NET development offering
+* Contribute to the evolution and extension of our application development offering
 * Knowledge of finance, health and energie sector through hands-on work experience in projects (Commerzbank, BNP Paribas, PostFinance, Unilabs, EWE)
 * Knowledge of industry-specific format: HL7 Format (Health), SWIFT (Finance)
 
 ## Profile
 * 10+ of consulting, development and testing experience
 * Diplom Wirtschaftsinformatik (Universitaet Trier), Master degree in computer science (University of Birmingham)
-* Java 7/8 (JSF, Spring, Java FX, SLF4J, LOG4J, Angular JS)
+* Java 7/8 (JSF, Spring, Java FX, SLF4J, LOG4J, Angular JS), Kotlin
 * C#/.NET with WPF/WCF
 * Node.js, Javascipt
 * Utilities: JUnit, Selenium, Mockito, NUnit, Nuget
