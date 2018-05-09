@@ -17,6 +17,7 @@ order: 3
 * Diplom Wirtschaftsinformatik (Universitaet Trier), Master degree in computer science (University of Birmingham)
 * Java 7/8 (JSF, Spring, Java FX, SLF4J, LOG4J, Angular JS)
 * C#/.NET with WPF/WCF
+* Node.js, Javascipt
 * Utilities: JUnit, Selenium, Mockito, NUnit, Nuget
 * Eclipse, Maven, SVN, Jenkins, Docker, Git, SVN, Visual Studio
 * Knowledge in developing Cloud Solutions (AWS, Cloud Foundry, Azure)
