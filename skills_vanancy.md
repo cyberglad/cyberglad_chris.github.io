@@ -1,5 +1,5 @@
 ---
-title: My Skills
+title: Vacancy Skills
 subtitle: Here are some things I can do.
 icon: fa-graduation-cap
 permalink: /skills
