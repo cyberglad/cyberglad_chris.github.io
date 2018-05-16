@@ -4,6 +4,17 @@ layout: default
 {%- assign _sections = site.sections | sort: 'order' -%}
 {%- include header.html scrolly_nav=_sections -%}
 <!-- Main -->
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="{% t site.description %}"/>
+    <meta name="keywords" content="{% t site.keywords %}"/>
+    <title>{% t site.name %} - {% t site.tagline %}</title>
+    <meta property="og:title" content="{% t site.og.title %}"/>
+    <meta property="og:image" content="{% t site.og.image %}"/>
+    <meta property="og:description" content="{% t site.og.description %}"/>
+    <meta property="og:url" content="{{ site.baseurl }}{% if page.url %}{{ page.url }}{% endif %}"/>
+    <meta property="og:locale" content="{% t site.og.locale %}"/>    
+</head>
 <div id="main">
 	{%- if page.content != "" -%}
 		{%- include section.html title=page.title photo=page.cover-photo photo-alt=page.cover-photo-alt auto-header=page.auto-header content=page.content -%}
@@ -13,3 +24,14 @@ layout: default
 		{%- include section.html title=_section.title photo=_section.cover-photo photo-alt=_section.cover-photo-alt auto-header=_section.auto-header content=_section.content -%}
 	{%- endfor -%}
 </div>
+ <footer>
+        <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
+        {% for lang in site.languageNames %}
+        {% if lang[0] == site.lang %} {% continue %} {% endif %}
+        {% if page.namespace %}
+        <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+        {% else %}
+        <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
+        {% endif %}
+        {% endfor %}
+    </footer>
