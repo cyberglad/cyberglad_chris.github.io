@@ -8,3 +8,4 @@ icon: fa-home
 order: 1
 ---
 Yuri Gladkov est developpeur
+<link rel="stylesheet" href="{{ "/css/bootstrap.css" | prepend: site.baseurl_root }}"/>
