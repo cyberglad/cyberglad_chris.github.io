@@ -5,5 +5,8 @@ base_url: https://cyberglad.github.io
 url: https://cyberglad.github.io
 avatar: http://files.softicons.com/download/android-icons/sugar-icons-by-snobawm/ico/googledrive.ico
 permalink: /blog/:year/:month/:day/:title
-languages: ["sv", "en", "de", "fr"]
+languages: ["en","de"]
 exclude_from_localizations: ["assets", "CNAME"]
+languageNames:
+  de: Deutsch
+  en: English
